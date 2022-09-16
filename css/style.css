@@ -23,14 +23,8 @@ text-align: center;
 }
 
 div.body {
-width: 1000px;
-height: auto;
-padding: 10px;
-align-items: center;
-}
-
-div.container {
 width: 100%;
 height: auto;
-padding: 20px
+padding: 30px;
+align-items: center;
 }
