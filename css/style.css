@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto';font-size: 22px;
+}
+div.gallery {
+margin: 5px;
+border: 0px solid #ccc;
+float: left;
+width: 400px;
+}
+
+div.gallery:hover {
+border: 0px solid #777;
+}
+
+div.gallery img {
+width: 100%;
+height: auto;
+}
+
+div.desc {
+padding: 15px;
+text-align: center;
+}
+
+div.body {
+width: 1000px;
+height: auto;
+padding: 10px;
+align-items: center;
+}
+
+div.container {
+width: 100%;
+height: auto;
+padding: 20px
+}
